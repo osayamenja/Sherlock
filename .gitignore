@@ -1,0 +1,4 @@
+# Jetbrains Metadata
+.idea/
+.venv/
+*.iml
